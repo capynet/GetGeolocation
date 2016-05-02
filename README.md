@@ -22,7 +22,7 @@ getGeolocation(
 
   // Not available callback
   function () {
-    console.warn('This browser do not suport geolocation');
+    console.warn('This browser do not support geolocation');
   }
   
 );
